@@ -16,7 +16,7 @@
 
 `apt-get install tor`
 
-`git clone https:/BlackHat-Abhi/AS-igbrute.git`
+`git clone https://github.com/BlackHat-Abhi/AS-igbrute `
 
 `cd AS-igbrute`
 
